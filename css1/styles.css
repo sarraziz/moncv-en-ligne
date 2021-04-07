@@ -1,0 +1,47 @@
+/* body { 
+     background-color: cadetblue;
+ }*/
+
+.contenu {
+    width: 500px;
+    margin: 50px auto;
+    /*background-color: lightskyblue;*/
+}
+
+.details {
+    /*  background-color: lightpink;*/
+    height: 150px;
+}
+
+div.details img {
+    float: left;
+    width: 210px 210px;
+    border-radius: 50%;
+}
+
+div.details .list-details {
+    /*  background-color: lightsalmon;*/
+    list-style-type: none;
+    float: left;
+    margin-top: 25px;
+    color: blue;
+}
+
+.cv-section {
+    /*background-color: lightsteelblue;*/
+    padding-bottom: 20px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    margin: 0px;
+}
+
+hr {
+    border-color: brown;
+}
